@@ -312,6 +312,7 @@ function logInWithGoogle() {
   flex-direction: column;
   align-items: center;
   gap: 26px;
+  margin-bottom: 30px;
 }
 
 :deep(.v-field--error:not(.v-field--disabled) .v-field__outline) {
